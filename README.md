@@ -4,6 +4,18 @@
 ---
 
 
+### 📬 **Vamos Conectar?**
+
+* **LinkedIn**: [https://www.linkedin.com/in/kaiomuniz](https://www.linkedin.com/in/kaiomuniz)
+* **GitHub**: [https://github.com/KaioMuniz](https://github.com/KaioMuniz)
+* **E-mail**: [Clique aqui para enviar um novo e-mail para mim!](https://mail.google.com/mail/?view=cm&fs=1&to=kkaioribeiro@gmail.com)
+* **WhatsApp**: [Estou a um clique de distância, vamos conversar!](https://wa.me/5521972345311)
+* 📄 **Fique à vontade para conferir meu currículo em PDF: [Acesse aqui!](https://github.com/KaioMuniz/kaioCurriculum/blob/main/KAIO%20MUNIZ%20DE%20SOUZA%20RIBEIRO.pdf)**
+* 📄 **Ou em docx: [Acesse aqui!](https://github.com/KaioMuniz/kaioCurriculum/blob/main/KAIO%20MUNIZ%20DE%20SOUZA%20RIBEIRO.docx)**
+
+  
+---
+
 <table>
   <tr>
     <td>
