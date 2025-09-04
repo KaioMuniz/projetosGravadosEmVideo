@@ -1,7 +1,4 @@
-### Resolvendo PROVAS:
 
-
----
 
 
 ### 📬 **Vamos Conectar?**
@@ -13,7 +10,8 @@
 * 📄 **Fique à vontade para conferir meu currículo em PDF: [Acesse aqui!](https://github.com/KaioMuniz/kaioCurriculum/blob/main/KAIO%20MUNIZ%20DE%20SOUZA%20RIBEIRO.pdf)**
 * 📄 **Ou em docx: [Acesse aqui!](https://github.com/KaioMuniz/kaioCurriculum/blob/main/KAIO%20MUNIZ%20DE%20SOUZA%20RIBEIRO.docx)**
 
-  
+---
+### Resolvendo Provas e projetando em equipe:
 ---
 
 <table>
